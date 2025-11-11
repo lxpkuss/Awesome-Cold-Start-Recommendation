@@ -541,17 +541,23 @@
 ## Research Papers Sorted by Published Time
 
 ### Year 2025 [[Back to Top](#awesome-cold-start-recommendation)]
-- (RecSys 2025) **Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation** [[Paper]](https://www.arxiv.org/pdf/2507.23209) [[Code]](https://github.com/sony/ds-research-code/tree/master/recsys25-IntervalLLM)
-
-- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
-
 - (AAAI 2025) **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** [[Paper]](https://arxiv.org/pdf/2412.15005) [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
 
 - (WSDM 2025) **Large Language Model Simulator for Cold-Start Recommendation** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) [[Code]](https://github.com/ColdLLM-Team/ColdLLM-repo)
 
+- (CIKM 2025) **MI4Rec: Pretrained Language Model based Cold-Start Recommendation with Meta-Item Embeddings** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761313) [[Code]](https://github.com/zhengzaiyi/MI4Rec)
+
+- (CIKM 2025) **Harnessing Light for Cold-Start Recommendations: Leveraging Epistemic Uncertainty to Enhance Performance in User-Item Interactions** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746252.3760793) [[Code]](https://github.com/EsiksonX/CREU)
+
+- (CIKM 2025) **Meta-Adaptive Network for Effective Cold-Start Recommendation via Warm-Aware Representation Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761508)
+
+- (RecSys 2025) **Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation** [[Paper]](https://www.arxiv.org/pdf/2507.23209) [[Code]](https://github.com/sony/ds-research-code/tree/master/recsys25-IntervalLLM)
+
 - (COLING 2025) **Integrating Group-based Preferences from Coarse to Fine for Cold-start Users Recommendation** [[Paper]](https://aclanthology.org/2025.coling-main.153.pdf) [[Code]](https://github.com/sygogo/GRAPECDR)
 
 - (COLING 2025) **Taxonomy-Guided Zero-Shot Recommendations with LLMs** [[Paper]](https://arxiv.org/pdf/2406.14043) [[Code]](https://github.com/yueqingliang1/TaxRec)
+
+- (Arxiv 2025) **FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation** [[Paper]](https://arxiv.org/pdf/2502.16924)
 
 ---
 
